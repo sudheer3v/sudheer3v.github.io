@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: sudheer3v/SharePoint2016
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -9,7 +9,7 @@ version: 2
 name: Sudheer Akurathi
 title: Senior SharePoint/PowerPlatform Developer
 email: sudheer3v@gmail.com
-website: https://github.com/sudheer3v
+phone: +1-234-281-8394
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -30,10 +30,10 @@ linkedin_username: sudheer-akurathi
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,10 +48,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
+  Hi, my name's Sudheer and I'm a senior SharePoint/PowerPlatform Developer. Specialized in designing, developing and maintaining high quality business oriented solutions for SharePoint Online, On premise and O365. 
+  Most Skilled in <mark>Client Side Development</mark>, <mark>SPFx</mark>, <mark>JavaScript</mark>, <mark>PowerShell</mark>, <mark>C#</mark>, <mark>.NET</mark>, <mark>UI/UX</mark>, <mark>InfoPath Forms</mark>, <mark>Designer Workflows</mark>, <mark>Power Apps</mark>, and <mark>Power Automate</mark>.
+  
+  Strong work ethic; Quality of work; Interested in taking up new challenges; Always enthusiastic to learn new things; Taking Initiative and Responsibility.
+  
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -76,39 +77,63 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Fifth Third Bank
+        link: 53.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Senior SharePoint/PowerPlatform Developer
+        caption: Oct 2016 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          SharePoint 2007 to 2016 Migration; SharePoint Online Intranet Portal; SharePoint 2016 to SharePoint Online Migration.
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            Developed intranet portal in SPO which is used by 30K+ users.
+            Designed and developed a self servicing automated site creation process for  easy and efficient user experience and to save time and dependency.
+            Developed SPFx apps like Site Alerts, Hub Alerts, Stock Ticker, custom search web part.
+            Migrated 5 TB of SP 2007 data to SP 2016 by using METALOGIX tool and PowerShell.
+            Designed and developed a 5 level approval State Machine Flow in Power Automate for PO tracking, improved business efficiency by 40% and reduced time to complete the process by 20%.
+            Developed custom / OOTB InfoPath forms and workflows in 07, 13, 16.
+      - layout: left
+        title: Fifth Third Bank
+        link: 53.com
+        # link_text: boringcompany.com
+        sub_title: Senior SharePoint/PowerPlatform Developer
+        caption: Oct 2016 - Present
+        quote: >
+          SharePoint 2007 to 2016 Migration; SharePoint Online Intranet Portal; SharePoint 2016 to SharePoint Online Migration.
+        description: | # this will include new lines to allow paragraphs
+            Developed intranet portal in SPO which is used by 30K+ users.
+            Designed and developed a self servicing automated site creation process for  easy and efficient user experience and to save time and dependency.
+            Developed SPFx apps like Site Alerts, Hub Alerts, Stock Ticker, custom search web part.
+            Migrated 5 TB of SP 2007 data to SP 2016 by using METALOGIX tool and PowerShell.
+            Designed and developed a 5 level approval State Machine Flow in Power Automate for PO tracking, improved business efficiency by 40% and reduced time to complete the process by 20%.
+            Developed custom / OOTB InfoPath forms and workflows in 07, 13, 16.
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Kent State University
+        caption: 2014 - 2015 
+        sub_title: MSc Computer Science - GPA 3.9/4.0
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Established in 1910, Kent State University is the highest-ranking public university in Northern Ohio on the Top Public Schools and Best National Universities lists in the 2022 U.S.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          Worked as a Teaching Assistant for Artificial Intelligence course. Mastered my skills in Programming languages like SQL, JavaScript, HTML, CSS and Python.  
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-  - title: A Little More About Me
+  - title: A Little More About My Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Programming Languages that I know:
+      - JavaScript (Angular, jQuery, Node, React, Knockout, Gulp)
+      - TypeScript, SPFx, .NET, C#, HTML, CSS, REST API, SOAP API, PowerShell, SQL, XML, PHP, Python.
 
+      Tools that I know: 
+      - Management Studio, Workflows, InfoPath, PowerApps, PowerAutomate
+      - Git, ServiceNow, Tableau, Power BI.
+
+      
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
