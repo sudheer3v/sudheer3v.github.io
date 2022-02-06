@@ -72,14 +72,14 @@ content:
         quote: >
           “I am still learning.” — Michelangelo
         description: | # this will include new lines to allow paragraphs
-          o More than 6  years of experience in SharePoint Development.
-          o Technically strong in SharePoint Online/On Premise, Office 365, MS Teams, Power Platform, InfoPath Forms, and Workflows.
-          o Strengths in PowerShell, JavaScript, C#, .NET, and UI/UX.
-          o Expert in building custom and highly efficient solutions and apps.
-          o Proficient in streamlining repetitive tasks, and developing custom business automations in SPO and SP On premise.
-          o Expert in SharePoint content migrations, designing and building complicated electronic forms and workflows.
-          o Involved in all phases of SDLC including requirements gathering, analysis, design, development, testing, UAT, production and support.
-          o Flexible with Agile and Waterfall methodologies.
+          - More than 6  years of experience in SharePoint Development.
+          - Technically strong in SharePoint Online/On Premise, Office 365, MS Teams, Power Platform, InfoPath Forms, and Workflows.
+          - Strengths in PowerShell, JavaScript, C#, .NET, and UI/UX.
+          - Expert in building custom and highly efficient solutions and apps.
+          - Proficient in streamlining repetitive tasks, and developing custom business automations in SPO and SP On premise.
+          - Expert in SharePoint content migrations, designing and building complicated electronic forms and workflows.
+          - Involved in all phases of SDLC including requirements gathering, analysis, design, development, testing, UAT, production and support.
+          - Flexible with Agile and Waterfall methodologies.
 
 
   - title: Experience # Title for the section
@@ -94,12 +94,12 @@ content:
         quote: >
           SharePoint 2007 to 2016 Migration; SharePoint Online Intranet Portal; SharePoint 2016 to SharePoint Online Migration.
         description: | # this will include new lines to allow paragraphs
-            Developed intranet portal in SPO which is used by 30K+ users.
-            Designed and developed a self servicing automated site creation process for  easy and efficient user experience and to save time and dependency.
-            Developed SPFx apps like Site Alerts, Hub Alerts, Stock Ticker, custom search web part.
-            Migrated 5 TB of SP 2007 data to SP 2016 by using METALOGIX tool and PowerShell.
-            Designed and developed a 5 level approval State Machine Flow in Power Automate for PO tracking, improved business efficiency by 40% and reduced time to complete the process by 20%.
-            Developed custom / OOTB InfoPath forms and workflows in 07, 13, 16.
+            - Developed intranet portal in SPO which is used by 30K+ users.
+            - Designed and developed a self servicing automated site creation process for  easy and efficient user experience and to save time and dependency.
+            - Developed SPFx apps like Site Alerts, Hub Alerts, Stock Ticker, custom search web part.
+            - Migrated 5 TB of SP 2007 data to SP 2016 by using METALOGIX tool and PowerShell.
+            - Designed and developed a 5 level approval State Machine Flow in Power Automate for PO tracking, improved business efficiency by 40% and reduced time to complete the process by 20%.
+            - Developed custom / OOTB InfoPath forms and workflows in 07, 13, 16.
       - layout: left
         title: Crowd Software
         link: https://csoftllc.com/
@@ -109,11 +109,11 @@ content:
         quote: >
           SharePoint Onpremise Development; SharePoint server maintenance; SharePoint client side development.
         description: | # this will include new lines to allow paragraphs
-            Created a variety of sites in SharePoint 13, 16 using UI and PowerShell. 
-            Developed custom master pages and page layouts in SharePoint 2016.
-            Performed quarterly SharePoint 2016 patching's to keep all the non prod and prod environments up to date.
-            Developed responsive web designs and custom Nav Bar for all SP 2016 sites; this improved user experience for 30K+ users.
-            Developed various data reports like permissions reports, item counts report and more for SP Sites using PowerShell, HTML and CSS.
+            - Created a variety of sites in SharePoint 13, 16 using UI and PowerShell. 
+            - Developed custom master pages and page layouts in SharePoint 2016.
+            - Performed quarterly SharePoint 2016 patching's to keep all the non prod and prod environments up to date.
+            - Developed responsive web designs and custom Nav Bar for all SP 2016 sites; this improved user experience for 30K+ users.
+            - Developed various data reports like permissions reports, item counts report and more for SP Sites using PowerShell, HTML and CSS.
 
 
 
