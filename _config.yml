@@ -135,11 +135,11 @@ content:
   - title: A Little More About My Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Programming Languages that I know:
+      Programming Languages:
       - JavaScript (Angular, jQuery, Node, React, Knockout, Gulp)
       - TypeScript, SPFx, .NET, C#, HTML, CSS, REST API, SOAP API, PowerShell, SQL, XML, PHP, Python.
 
-      Tools that I know: 
+      Tools: 
       - Management Studio, Workflows, InfoPath, PowerApps, PowerAutomate
       - Git, ServiceNow, Tableau, Power BI.
 
