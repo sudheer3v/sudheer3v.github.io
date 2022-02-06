@@ -123,7 +123,8 @@ content:
       - layout: left
         title: Kent State University
         caption: 2014 - 2015 
-        sub_title: MSc Computer Science - GPA 3.9/4.0
+        sub_title: MSc Computer Science 
+        GPA: 3.9/4.0
         quote: >
           Established in 1910, Kent State University is the highest-ranking public university in Northern Ohio on the Top Public Schools and Best National Universities lists in the 2022 U.S.
         description: | # this will include new lines to allow paragraphs
