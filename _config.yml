@@ -49,7 +49,8 @@ linkedin_username: sudheer-akurathi
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Sudheer and I'm a senior SharePoint/PowerPlatform Developer. Specialized in designing, developing and maintaining high quality business oriented solutions for SharePoint Online, On premise and O365. 
-  Most Skilled in <mark>Client Side Development</mark>, <mark>SPFx</mark>, <mark>JavaScript</mark>, <mark>PowerShell</mark>, <mark>C#</mark>, <mark>.NET</mark>, <mark>UI/UX</mark>, <mark>InfoPath Forms</mark>, <mark>Designer Workflows</mark>, <mark>Power Apps</mark>, and <mark>Power Automate</mark>.
+  
+  Most Skilled in <mark>CSOM</mark>, <mark>SPFx</mark>, <mark>JavaScript</mark>, <mark>PowerShell</mark>, <mark>C#</mark>, <mark>.NET</mark>, <mark>UI/UX</mark>, <mark>InfoPath Forms</mark>, <mark>Designer Workflows</mark>, <mark>Power Apps</mark>, and <mark>Power Automate</mark>.
   
   Strong work ethic; Quality of work; Interested in taking up new challenges; Always enthusiastic to learn new things; Taking Initiative and Responsibility.
   
@@ -64,7 +65,7 @@ content:
         additional_links:
           - title:  sudheer3v/SharePoint2016
             icon: fab fa-github
-            url: ithub.com/sudheer3v/SharePoint2016
+            url: github.com/sudheer3v/SharePoint2016
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
