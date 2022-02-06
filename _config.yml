@@ -54,24 +54,32 @@ about_content: | # this will include new lines to allow paragraphs
   Strong work ethic; Quality of work; Interested in taking up new challenges; Always enthusiastic to learn new things; Taking Initiative and Responsibility.
   
 content:
-  - title: Projects # Title for the section
+  - title: Summary # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: SharePoint Online/On-Premise and Power Platform
+        link: github.com/sudheer3v
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  sudheer3v/SharePoint2016
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: ithub.com/sudheer3v/SharePoint2016
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          “I am still learning.” — Michelangelo
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          o More than 6  years of experience in SharePoint Development.
+          o Technically strong in SharePoint Online/On Premise, Office 365, MS Teams, Power Platform, InfoPath Forms, and Workflows.
+          o Strengths in PowerShell, JavaScript, C#, .NET, and UI/UX.
+          o Expert in building custom and highly efficient solutions and apps.
+          o Proficient in streamlining repetitive tasks, and developing custom business automations in SPO and SP On premise.
+          o Expert in SharePoint content migrations, designing and building complicated electronic forms and workflows.
+          o Involved in all phases of SDLC including requirements gathering, analysis, design, development, testing, UAT, production and support.
+          o Flexible with Agile and Waterfall methodologies.
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -92,20 +100,20 @@ content:
             Designed and developed a 5 level approval State Machine Flow in Power Automate for PO tracking, improved business efficiency by 40% and reduced time to complete the process by 20%.
             Developed custom / OOTB InfoPath forms and workflows in 07, 13, 16.
       - layout: left
-        title: Fifth Third Bank
-        link: 53.com
+        title: Crowd Software
+        link: https://csoftllc.com/
         # link_text: boringcompany.com
-        sub_title: Senior SharePoint/PowerPlatform Developer
-        caption: Oct 2016 - Present
+        sub_title: SharePoint Developer
+        caption: Oct 2015 - Sep 2016
         quote: >
-          SharePoint 2007 to 2016 Migration; SharePoint Online Intranet Portal; SharePoint 2016 to SharePoint Online Migration.
+          SharePoint Onpremise Development; SharePoint server maintenance; SharePoint client side development.
         description: | # this will include new lines to allow paragraphs
-            Developed intranet portal in SPO which is used by 30K+ users.
-            Designed and developed a self servicing automated site creation process for  easy and efficient user experience and to save time and dependency.
-            Developed SPFx apps like Site Alerts, Hub Alerts, Stock Ticker, custom search web part.
-            Migrated 5 TB of SP 2007 data to SP 2016 by using METALOGIX tool and PowerShell.
-            Designed and developed a 5 level approval State Machine Flow in Power Automate for PO tracking, improved business efficiency by 40% and reduced time to complete the process by 20%.
-            Developed custom / OOTB InfoPath forms and workflows in 07, 13, 16.
+            Created a variety of sites in SharePoint 13, 16 using UI and PowerShell. 
+            Developed custom master pages and page layouts in SharePoint 2016.
+            Performed quarterly SharePoint 2016 patching's to keep all the non prod and prod environments up to date.
+            Developed responsive web designs and custom Nav Bar for all SP 2016 sites; this improved user experience for 30K+ users.
+            Developed various data reports like permissions reports, item counts report and more for SP Sites using PowerShell, HTML and CSS.
+
 
 
   - title: Education # Title for the section
