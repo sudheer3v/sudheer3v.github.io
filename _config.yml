@@ -54,7 +54,8 @@ about_content: | # this will include new lines to allow paragraphs
   
   Strong work ethic; Quality of work; Interested in taking up new challenges; Always enthusiastic to learn new things; Taking Initiative and Responsibility.
 
-  [My PowerShell Work](https://github.com/sudheer3v/SharePoint2016) ; [My PowerAutomate Work](https://github.com/sudheer3v/PowerAutomate)
+  - [My PowerShell Work](https://github.com/sudheer3v/SharePoint2016) 
+  - [My PowerAutomate Work](https://github.com/sudheer3v/PowerAutomate)
   
 content:
   - title: Summary # Title for the section
