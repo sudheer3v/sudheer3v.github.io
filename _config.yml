@@ -32,9 +32,9 @@ linkedin_username: sudheer-akurathi
 # Additional icon links
 #additional_links:
 #icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-- title: SharePoint2016
-  icon: fa-duotone fa-terminal
-  url: github.com/sudheer3v/SharePoint2016
+#- title: SharePoint2016
+#  icon: fa-duotone fa-terminal
+#  url: github.com/sudheer3v/SharePoint2016
 #- title: Power Automate
 #  icon: fa-duotone fa-angles-right
 #  url: https://github.com/sudheer3v/PowerAutomate
@@ -69,6 +69,9 @@ content:
           - title:  sudheer3v/SharePoint2016
             icon: fab fa-github
             url: github.com/sudheer3v/SharePoint2016
+          - title: Power Automate
+            icon: fa-duotone fa-angles-right
+            url: github.com/sudheer3v/PowerAutomate
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
