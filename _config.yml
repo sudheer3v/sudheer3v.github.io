@@ -31,12 +31,13 @@ linkedin_username: sudheer-akurathi
 
 # Additional icon links
 #additional_links:
-#- title: itsgoingto.be
-#  icon: fas fa-globe
-#  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
+#icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+- title: SharePoint2016
+  icon: fa-duotone fa-terminal
+  url: https://github.com/sudheer3v/SharePoint2016
+ - title: Power Automate
+   icon: fa-duotone fa-angles-right
+   url: https://github.com/sudheer3v/PowerAutomate
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -54,8 +55,7 @@ about_content: | # this will include new lines to allow paragraphs
   
   Strong work ethic; Quality of work; Interested in taking up new challenges; Always enthusiastic to learn new things; Taking Initiative and Responsibility.
 
-  - [My PowerShell Work](https://github.com/sudheer3v/SharePoint2016) 
-  - [My PowerAutomate Work](https://github.com/sudheer3v/PowerAutomate)
+
   
 content:
   - title: Summary # Title for the section
