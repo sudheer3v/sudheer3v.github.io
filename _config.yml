@@ -70,7 +70,7 @@ content:
             icon: fab fa-github
             url: github.com/sudheer3v/SharePoint2016
           - title: Power Automate
-            icon: fa-duotone fa-angles-right
+            icon: fab fa-angles-right
             url: github.com/sudheer3v/PowerAutomate
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
