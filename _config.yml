@@ -35,9 +35,7 @@ linkedin_username: sudheer-akurathi
 #- title: SharePoint2016
 #  icon: fa-duotone fa-terminal
 #  url: github.com/sudheer3v/SharePoint2016
-#- title: Power Automate
-#  icon: fa-duotone fa-angles-right
-#  url: https://github.com/sudheer3v/PowerAutomate
+
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -51,7 +49,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Sudheer and I'm a senior SharePoint/PowerPlatform Developer. Specialized in designing, developing and maintaining high quality business oriented solutions for SharePoint Online, On premise and O365. 
   
-  Most Skilled in <mark>CSOM</mark>, <mark>SPFx</mark>, <mark>JavaScript</mark>, <mark>PowerShell</mark>, <mark>C#</mark>, <mark>.NET</mark>, <mark>UI/UX</mark>, <mark>InfoPath Forms</mark>, <mark>Designer Workflows</mark>, <mark>Power Apps</mark>, and <mark>![Power Automate](https://github.com/sudheer3v/PowerAutomate)</mark>.
+  Most Skilled in <mark>CSOM</mark>, <mark>SPFx</mark>, <mark>JavaScript</mark>, <mark>PowerShell</mark>, <mark>C#</mark>, <mark>.NET</mark>, <mark>UI/UX</mark>, <mark>InfoPath Forms</mark>, <mark>Designer Workflows</mark>, <mark>Power Apps</mark>, and <mark>Power Automate</mark>.
   
   Strong work ethic; Quality of work; Interested in taking up new challenges; Always enthusiastic to learn new things; Taking Initiative and Responsibility.
 
@@ -63,12 +61,12 @@ content:
     content:
       - layout: top-middle
         title: SharePoint Online/On-Premise and Power Platform
-        link: github.com/sudheer3v
+        link: github.com/sudheer3v/SharePoint2016
         # link_text: Project Website
         additional_links:
-          - title:  sudheer3v/SharePoint2016
+          - title:  Power Automate Repository
             icon: fab fa-github
-            url: github.com/sudheer3v/SharePoint2016          
+            url: github.com/sudheer3v/PowerAutomate          
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
