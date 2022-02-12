@@ -34,10 +34,10 @@ linkedin_username: sudheer-akurathi
 #icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 - title: SharePoint2016
   icon: fa-duotone fa-terminal
-  url: https://github.com/sudheer3v/SharePoint2016
-- title: Power Automate
-  icon: fa-duotone fa-angles-right
-  url: https://github.com/sudheer3v/PowerAutomate
+  url: github.com/sudheer3v/SharePoint2016
+#- title: Power Automate
+#  icon: fa-duotone fa-angles-right
+#  url: https://github.com/sudheer3v/PowerAutomate
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
