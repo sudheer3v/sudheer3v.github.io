@@ -94,15 +94,19 @@ content:
         quote: >
           SharePoint 2007 to 2016 Migration; SharePoint Online Intranet Portal; SharePoint 2016 to SharePoint Online Migration.
         description: | # this will include new lines to allow paragraphs
-            - Designed and developed an Intranet Portal in SP Online that meet business requirements; is user friendly; is used by 30K+ users daily, by using PnP PowerShell and other modern technologies.
-            - Designed and developed an automation process for creating sites in SPO, which runs every hour, every day by using PnP PowerShell and Task Scheduler, this reduced dependency, increased efficiency and saved a lot of time.
+            - Designed, developed, and executed a process for Migrating SP 2016 Data to SPO and File Shares data to OneDrive using Sharegate and SPMT Microsoft Migration tools. 
+            - Created modern portal sites like Teams sites, Communication Sites, and MS Teams sites that are designed to meet business requirements by using modern technologies.
             - Developed custom SPFx apps for Site Alerts, Hub Alerts, an app called Stock Ticker to display real time stock prices with 15 min refresh rate, and a custom search web part for libraries to display targeted results in SP Online by using SPFx and other modern technologies.
-            - Created interactive and user friendly dashboards and stories to display SharePoint data by using Tableau.
-            - Created a 5 level approval State Machine Flow in Power Automate, which improved business efficiency by 40% and increased speed of process by 30%.
-            - Led a SharePoint Upgrade project; Migrated 5 TB of SP 2007 data to SP 2016 by using METALOGIX tool and PowerShell Scripts.
-            - Developed various reports for permissions, audit and migration validation by using PowerShell, HTML and CSS for both 2007 and 2016 SP Sites.
-            - Redesigned the site structure of 1500 SP 2007 sites into 150 Sites in SP 2016 which increased the manageability by 70%.
-            - Migrated, re developed and maintained custom / OOTB InfoPath forms and workflows in 07, 13, 16.
+            - Designed and developed a self-service automation tool called Provisioning Engine to create new sites in SPO by using PnP PowerShell which saved a lot of time and reduced a lot of dependency and site creation time by 50%.
+            - Developed custom site templates and tenant templates to enforce consistent interface, navigation, configuration throughout the tenant.
+            - Designed and developed an Intranet Portal in SPO by using XML templates, PnP PowerShell, and modern technologies to improve user experience which in turn increased the work efficiency by 30%.
+            - Designed and developed a 5-level approval State Machine Flow in Power Automate and integrated them with PowerApps and MS Forms, this improved business efficiency by 40% and reduced processing time by 20%.
+            - Worked on SharePoint 2016 Upgrade project; Automated the SharePoint Migration process and Migrated 7 TB of SP 2007 data to SP 2016 by using METALOGIX tool and PowerShell.
+            - Designed a solution to validate migrations by using DB Tables, SQL Queries, and various Pre and Post-Migration PowerShell reports for SP 2007 and SP 2016.
+            - Migrated InfoPath forms from 2007 to 2016 and attached SP Designer state machine workflows.
+            - Performed quarterly patching on SharePoint 2016 to keep all the non-prod and production environments up to date.
+            - Managed Service Now/Remedy work orders and incidents related to SP 2016, SPO, and MS Teams.
+            
       - layout: left
         title: Crowd Software
         link: csoftllc.com/
