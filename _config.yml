@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Sudheer Akurathi
-title: Senior SharePoint/PowerPlatform Developer
+title: Senior SharePoint Developer & PowerPlatform Developer
 email: sudheer3v@gmail.com
 phone: +1-234-281-8394
 
@@ -47,9 +47,9 @@ linkedin_username: sudheer-akurathi
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Sudheer and I'm a senior SharePoint/PowerPlatform Developer. Specialized in designing, developing and maintaining high quality business oriented solutions for SharePoint Online, On premise and O365. 
+  Hi, my name is Sudheer Akurathi and I'm a Senior SharePoint and PowerPlatform Developer. Specialized in designing, developing and maintaining high quality business oriented solutions for SharePoint Online, On premise and O365. 
   
-  Most Skilled in <mark>CSOM</mark>, <mark>SPFx</mark>, <mark>JavaScript</mark>, <mark>PowerShell</mark>, <mark>C#</mark>, <mark>.NET</mark>, <mark>UI/UX</mark>, <mark>InfoPath Forms</mark>, <mark>Designer Workflows</mark>, <mark>Power Apps</mark>, and <mark>Power Automate</mark>.
+  Most Skilled in <mark>SPFx</mark>, <mark>JavaScript</mark>, <mark>PowerShell</mark>, <mark>C#</mark>, <mark>.NET</mark>, <mark>UI/UX</mark>, <mark>InfoPath Forms</mark>, <mark>Designer Workflows</mark>, <mark>Power Apps</mark>, <mark>Power Automate</mark> and <mark>CSOM</mark>.
   
   Strong work ethic; Quality of work; Interested in taking up new challenges; Always enthusiastic to learn new things; Taking Initiative and Responsibility.
 
@@ -92,40 +92,36 @@ content:
         sub_title: Senior SharePoint/PowerPlatform Developer
         caption: Oct 2016 - Present
         quote: >
-          SharePoint 2007 to 2016 Migration; SharePoint Online Intranet Portal; SharePoint 2016 to SharePoint Online Migration.
+           SPFx Apps; PowerShell Scripting; SharePoint Online Intranet Portal; SharePoint 2016 to SharePoint Online Migration; SharePoint 2007 to 2016 Migration.
         description: | # this will include new lines to allow paragraphs
-            - Designed, developed, and executed a process for Migrating SP 2016 Data to SPO and File Shares data to OneDrive using Sharegate and SPMT Microsoft Migration tools. 
-            - Created modern portal sites like Teams sites, Communication Sites, and MS Teams sites that are designed to meet business requirements by using modern technologies.
-            - Developed custom SPFx apps for Site Alerts, Hub Alerts, an app called Stock Ticker to display real time stock prices with 15 min refresh rate, and a custom search web part for libraries to display targeted results in SP Online by using SPFx and other modern technologies.
-            - Designed and developed a self-service automation tool called Provisioning Engine to create new sites in SPO by using PnP PowerShell which saved a lot of time and reduced a lot of dependency and site creation time by 50%.
-            - Developed custom site templates and tenant templates to enforce consistent interface, navigation, configuration throughout the tenant.
-            - Designed and developed an Intranet Portal in SPO by using XML templates, PnP PowerShell, and modern technologies to improve user experience which in turn increased the work efficiency by 30%.
-            - Designed and developed a 5-level approval State Machine Flow in Power Automate and integrated them with PowerApps and MS Forms, this improved business efficiency by 40% and reduced processing time by 20%.
-            - Worked on SharePoint 2016 Upgrade project; Automated the SharePoint Migration process and Migrated 7 TB of SP 2007 data to SP 2016 by using METALOGIX tool and PowerShell.
-            - Designed a solution to validate migrations by using DB Tables, SQL Queries, and various Pre and Post-Migration PowerShell reports for SP 2007 and SP 2016.
-            - Migrated InfoPath forms from 2007 to 2016 and attached SP Designer state machine workflows.
-            - Performed quarterly patching on SharePoint 2016 to keep all the non-prod and production environments up to date.
-            - Managed Service Now/Remedy work orders and incidents related to SP 2016, SPO, and MS Teams.
+            - Designed and developed an Intranet Portal in SharePoint Online to replace old portal, improve user experience and efficiency, this helps 30K+ users everyday.
+            - Developed a custom SPFx app for site alerts and hub alerts to improve governance and communication.
+            - Developed a custom SPFx app called Stock Ticker App to display real time stock details with 15 min refresh settings.
+            - Developed a custom search web part app to display targeted results of a library by using SPFx.
+            - Designed and developed a self-service automation tool called Provisioning Engine to create new sites in SPO and saved site creation time by 50% and reducing dependency on dev team.
+            - Developed multiple custom site templates and tenant templates to enforce consistent interface, navigation, and configuration throughout the tenant.
+            - Designed and developed a 5-level approval State Machine Flow in Power Automate and integrated with PowerApps and MS Forms.
+            - Migrated content from SharePoint 2016 to SharePoint Online using ShareGate Migration tool. 
+            - Migrated content from File Shares to OneDrive using Microsoft SharePoint Migration tool.
+            - Worked on SharePoint 2016 Upgrade project; Automated the SharePoint Migrations and Migrated 7 TB of SP 2007 data to SP 2016 by using METALOGIX tool and PowerShell.
+            - Developed an automation process to validate migrations by using DB Tables, SQL Queries, and various Pre and Post-Migration PowerShell reports for SP 2007 and SP 2016.
             
       - layout: left
         title: Crowd Software
         link: csoftllc.com/
         # link_text: boringcompany.com
         sub_title: SharePoint Developer
-        caption: Oct 2015 - Sep 2016
+        caption: Jan 2016 - Sep 2016
         quote: >
           SharePoint Onpremise Development; SharePoint server maintenance; SharePoint client side development.
         description: | # this will include new lines to allow paragraphs
-            - Designed, Developed and Administered SP 2013 Farm, Central Admin, Site Collections, Sites, Lists and Libraries.
-            - Monitored and reviewed the performance/usage reports, created and managed content DB's. 
-            - Developed custom master pages and page layouts in SharePoint 2016.
-            - Created content types for different document libraries with various metadata fields.
-            - Developed training manuals for site content managers, reports related to change management, improvement recommendations, requirements documentation, and project summaries.
-            - Performed quarterly SharePoint 2016 patching's to keep all the non prod and prod environments up to date.
-            - Developed responsive web designs and custom Nav Bar for all SP 2016 sites; this improved user experience for 30K+ users.
-            - Expertise in creating out-of-box and custom web parts based on the requirement in SP 2013.
-            - Developed SharePoint hosted App Parts using VS 2013, CSOM and REST API
-            - Experience in development with .NET Framework, C#, CSOM (Client Side), SSOM (Server Side), JSOM.
+            - Created a variety of sites in SharePoint 13, 16 using UI and PowerShell.
+            - Customized master pages and page layouts in SharePoint 2016.
+            - Migrated custom code behind InfoPath forms from 2007 SharePoint to 2016 SharePoint.
+            - Converted custom code behind workflows into SP Designer state machine workflows.
+            - Performed SharePoint patching quarterly on SharePoint 2016 servers to keep all the environments up to date.
+            - Developed responsive UI and custom Nav Bar for all SP 2016 sites to create central navigation.
+            - Developed various reports for permissions, audit and migration validation for SP Sites using PowerShell, HTML and CSS.
 
 
 
