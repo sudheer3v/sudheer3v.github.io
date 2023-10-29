@@ -154,14 +154,13 @@ content:
           Established in 1910, Kent State University is the highest-ranking public university in Northern Ohio on the Top Public Schools and Best National Universities lists in the 2022 U.S.
         description: | # this will include new lines to allow paragraphs
           Worked as a Teaching Assistant for Artificial Intelligence course. Mastered my skills in Programming languages like SQL, JavaScript, HTML, CSS and Python.
-    layout: list # Type of content section (list/text)
-    content:
+    
       - layout: left
-          title: JNTU Kakinada
-          caption: 2014 
-          sub_title: Bachelor of Technology in Computer Science 
-          GPA: 3.3/4.0
-          description: | # this will include new lines to allow paragraphs
+        title: JNTU Kakinada
+        caption: 2014 
+        sub_title: Bachelor of Technology in Computer Science 
+        GPA: 3.3/4.0
+        description: | # this will include new lines to allow paragraphs
             Got introduced to Computer Science. Leraned skills in Programming languages like SQL, JavaScript, HTML, CSS and Python.
 
           
