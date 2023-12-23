@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Sudheer Akurathi
-title: SharePoint and Power Platform Engineer
+title: SharePoint & Power Platform Engineer
 email: sudheer3v@gmail.com
 phone: +1-234-281-8394
 
@@ -75,16 +75,16 @@ content:
         quote: >
           “I am still learning.” — Michelangelo
         description: | # this will include new lines to allow paragraphs
-          - Experienced Microsoft technology professional with over 8 years of expertise in SharePoint Online, Office 365, Power Platform, SharePoint Server on-premises, PowerShell, C#, and .NET Framework.
-          - Skilled in designing and implementing comprehensive SharePoint, File Share, and OneDrive content migrations using tools like Metalogix, ShareGate, and Microsoft's SPMT.
-          - Proficient in conducting post-migration validation through PowerShell reports and SQL queries.
-          - Proven track record in leveraging SharePoint's extensive capabilities and Power Platform's suite of tools to drive productivity, streamline business processes, and enhance collaboration across organizations.  
-          - Adept at customizing SharePoint sites, workflows, and forms to meet specific business requirements. Possesses excellent PowerShell scripting skills for efficient business automation. 
-          - Utilizes InfoPath Designer and SharePoint Designer for form and workflow development. Demonstrated ability in developing sequential and state machine workflows in SharePoint on-premises and SharePoint Online. 
-          - Skilled in developing custom SharePoint web parts, extensions, and solutions using SharePoint Framework (SPFx), HTML, CSS, JavaScript, TypeScript, and jQuery. Extensive front-end development experience with a focus on intuitive UI/UX design.          
-          - Demonstrated expertise in Power Platform development, including Power Apps, Power Automate (Flow), and Power BI. Designs and implements complex Power Apps solutions, automates workflows, and generates insightful reports and dashboards.          
-          - Experienced in the software development life cycle (SDLC) and source control management tools like GitHub, Team Foundation Server (TFS), and Clear Case.          
-          - Excellent problem-solving skills and ability to collaborate effectively with cross-functional teams and stakeholders. Adaptable to both waterfall and agile methodologies. 
+          - Experienced Microsoft technology professional with 8+ years specializing in SharePoint Online, Office 365, Power Platform, SharePoint Server (on-premises), PowerShell, C#, and .NET Framework. 
+          - Proficient in comprehensive content migrations across SharePoint, File Share, and OneDrive using Metalogix, ShareGate, and Microsoft's SPMT. 
+          - Skilled in post-migration validation via PowerShell reports and SQL queries. Leveraged SharePoint and Power Platform tools to boost productivity, streamline processes, and foster collaboration. 
+          - Expertise in customizing SharePoint sites, workflows, and forms, with strong PowerShell scripting skills for business automation. 
+          - Proficient in InfoPath Designer and SharePoint Designer for form and workflow development. 
+          - Adept in developing custom SharePoint solutions using SPFx, HTML, CSS, JavaScript, TypeScript, and jQuery, with a focus on intuitive UI/UX design. 
+          - Profound expertise in Power Platform development, including Power Apps, Power Automate, and Power BI. 
+          - Well-versed in SDLC and source control management tools like GitHub, TFS, and Clear Case. 
+          - Exceptional problem-solving skills, collaborating effectively across teams, adaptable to agile and waterfall methodologies.
+ 
 
 
   - title: Experience # Title for the section
@@ -119,7 +119,7 @@ content:
 
             
       - layout: left
-        title: Crowd Software
+        title: Crowd Software Consulting LLC
         link: csoftllc.com/
         # link_text: boringcompany.com
         sub_title: SharePoint Developer
