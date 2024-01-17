@@ -99,6 +99,7 @@ content:
         quote: >
            SPFx Apps; PowerShell Scripting; SharePoint Online Intranet Portal; SharePoint 2016 to SharePoint Online Migration; SharePoint 2007 to 2016 Migration.
         description: | # this will include new lines to allow paragraphs
+            - Lead process creation for Shared Drive Transfer and automation of Process Journey to ensure efficiency, speed, uniformity, and quality assurance.
             - Created a self-service Canvas app automating migration decisions, scheduling, site decommissioning, and meeting arrangements, streamlining migration processes. 
             - Developed various Canvas and model-driven apps using Power Apps with Dataverse, replacing InfoPath forms, and enhancing functionalities within SharePoint. 
             - Designed modern portal sites using modern technologies like Teams sites, communication sites, and MS Teams sites, enhancing collaboration. 
