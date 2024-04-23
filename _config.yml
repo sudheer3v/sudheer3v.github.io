@@ -99,7 +99,7 @@ content:
         quote: >
            SPFx Apps; PowerShell Scripting; SharePoint Online Intranet Portal; SharePoint 2016 to SharePoint Online Migration; SharePoint 2007 to 2016 Migration.
         description: | # this will include new lines to allow paragraphs
-        quote: >
+        
            SharePoint Online Development & Upgrade Project:
             -	Developed a range of Canvas Apps and Model-Driven Apps for diverse business processes, enhancing functionality and user experience with intuitive UI designs. 
             -	Created Approval Workflow Canvas App, addressing gaps in PowerAutomate approval flows by providing additional features such as reassignment, reminders, and print capabilities for approval summaries. Enhanced user productivity and collaboration by streamlining the approval process within SharePoint Online. 
@@ -113,11 +113,11 @@ content:
             -	Designed and implemented a Self-Service Provisioning Engine in SharePoint Online, automating the creation of custom sites to streamline processes and reduce administrative overhead by leveraging PowerApps Canvas App and PowerAutomate Flows. 
             -	Managed the migration of 11TB of SharePoint 2016 data to SharePoint Online, ensuring seamless data transition and minimizing operational downtime. Utilized Sharegate tool automated the jobs using PowerShell and best practices to manage the complex migration process efficiently. 
             -	Developed custom validation solutions to ensure the integrity of migrated data, preventing data loss using SharePoint APIs and PowerShell scripting. 
-        quote: >
+        
            SharePoint Online Intranet Portal Development Project:
             -	Led development of Intranet Portal in SharePoint Online, worked closely with stakeholders and end-users to gather requirements, design solutions, and provide ongoing support, fostering strong relationships and delivering solutions aligned with business objectives, achieving a 50% increase in user engagement through enhanced UI and customization options.
             -	Developed SPFx Apps including Alerts, Search Webpart, and Stock Ticker, reducing search time by 30% and enhancing user productivity.
-        quote: >
+        
            SharePoint 2016 Development & Upgrade Project: 
             -	Managed the migration of 7 TB SharePoint 2007 Content to SharePoint 2016 using Metalogix Content Matrix tool and Automated Migration Jobs using PowerShell, ensuring data integrity and compliance.
             -	Developed custom solutions to validate migrations using PowerShell Scripts and SQL Queries, ensuring successful migrations and data integrity.
