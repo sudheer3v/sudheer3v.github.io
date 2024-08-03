@@ -95,32 +95,17 @@ content:
            SPFx Apps; PowerShell Scripting; SharePoint Online Intranet Portal; SharePoint 2016 to SharePoint Online Migration; SharePoint 2007 to 2016 Migration.
         description: | # this will include new lines to allow paragraphs
         
-           SharePoint Online Development & Upgrade Project:
-            -	Developed a range of Canvas Apps and Model-Driven Apps for diverse business processes, enhancing functionality and user experience with intuitive UI designs. 
-            -	Created Approval Workflow Canvas App, addressing gaps in PowerAutomate approval flows by providing additional features such as reassignment, reminders, and print capabilities for approval summaries. Enhanced user productivity and collaboration by streamlining the approval process within SharePoint Online. 
-            -	Implemented various custom workflows, including approval flows, state machine flows, and task creation flows, to automate business processes and improve productivity by utilizing PowerAutomate, and JSON to tailor workflows to specific business needs. 
-            -	Designed and deployed a self-service Canvas app to automate migration decisions, scheduling, site decommissioning, and meeting arrangements, reducing migration preparation time, and improving efficiency. Integrated with SharePoint Online APIs like Microsoft Graph API and third-party services for seamless integration and functionality.
-            -	Spearheaded the creation of processes for Shared Drive Transfer and automated the Process Journey, resulting in a 40% increase in efficiency and ensuring uniformity and quality assurance. Developed standardized procedures and workflows to facilitate the transfer of data from shared drives to SharePoint Online, MS Teams and OneDrive, optimizing efficiency and maintaining data integrity.
-            -	Leveraged Microsoft's Migration Manager and SharePoint Migration Tool (SPMT) to execute migrations, generate comprehensive reports, and validate migrations from various sources to destinations to ensure smooth and accurate data transfer, minimizing disruptions and downtime. 
-            -	Implemented governance policies and best practices to maintain data integrity, compliance, and security within SharePoint environments, ensuring alignment with organizational standards and regulations.
-            -	Conducted App in a Day Training Classes to empower Citizen Developers, enabling them to create and manage Canvas Apps and Flows independently. Provided hands-on training sessions to enhance their skills and capabilities in building custom solutions within SharePoint Online, fostering innovation and productivity.
-            -	Delivered SharePoint Level 100 and Level 200 classes to train users on effectively utilizing SharePoint Online. Covered essential functionalities, and best practices to empower users to leverage SharePoint tools and features efficiently.
-            -	Designed and implemented a Self-Service Provisioning Engine in SharePoint Online, automating the creation of custom sites to streamline processes and reduce administrative overhead by leveraging PowerApps Canvas App and PowerAutomate Flows. 
-            -	Managed the migration of 11TB of SharePoint 2016 data to SharePoint Online, ensuring seamless data transition and minimizing operational downtime. Utilized Sharegate tool automated the jobs using PowerShell and best practices to manage the complex migration process efficiently. 
-            -	Developed custom validation solutions to ensure the integrity of migrated data, preventing data loss using SharePoint APIs and PowerShell scripting. 
-        
-           SharePoint Online Intranet Portal Development Project:
-            -	Led development of Intranet Portal in SharePoint Online, worked closely with stakeholders and end-users to gather requirements, design solutions, and provide ongoing support, fostering strong relationships and delivering solutions aligned with business objectives, achieving a 50% increase in user engagement through enhanced UI and customization options.
-            -	Developed SPFx Apps including Alerts, Search Webpart, and Stock Ticker, reducing search time by 30% and enhancing user productivity.
-        
-           SharePoint 2016 Development & Upgrade Project: 
-            -	Managed the migration of 7 TB SharePoint 2007 Content to SharePoint 2016 using Metalogix Content Matrix tool and Automated Migration Jobs using PowerShell, ensuring data integrity and compliance.
-            -	Developed custom solutions to validate migrations using PowerShell Scripts and SQL Queries, ensuring successful migrations and data integrity.
-            -	Engineered a Provisioning Engine utilizing PowerShell to automate the custom site creation process, reducing site creation time by 50% and enhancing automation efficiency in SharePoint 2016.
-            -	Designed and implemented custom web parts, Responsive UI, Central Navigation Bar, Page Layouts, and Design Templates in SharePoint 2016 using CSOM, JavaScript, HTML, and CSS, enhancing user experience and interface consistency.
-            -	Implemented SP Designer State Machine Workflows and In-Form Approval Workflows, streamlining process automation and improving workflow efficiency in SharePoint 2016.
-            -	Developed custom and intricate InfoPath Forms using C# and .Net framework, enhancing data capture and user interaction capabilities in SharePoint 2016.
-            -	Established and enforced Retention Policies in SharePoint 2016 using PowerShell, ensuring compliance with company policies.
+            •	PowerApps Solutions: Developed and migrated various Canvas and model-driven apps using Power Apps with Dataverse and other connectors to meet specific business requirements like Approval Canvas app that addressing gaps in Power Automate approval flows with additional features like reassignment, reminders, and print capabilities. This also included rebuilding multiple InfoPath Forms into Power Apps.
+            •	Power Automate flows: Migrated and developed custom designer workflows and out-of-the-box (OOTB) workflows into Power Automate using SPMT, improving workflow management.
+            •	Self-Service Provisioning Engine: Designed and implemented a Self-Service Provisioning Engine in SharePoint, automating custom site creation and reducing site creation time by 50% using Power Shell Scripts, JSON, PowerApps Canvas Apps and Power Automate Flows. 
+            •	Process Automation and Efficiency: Spearheaded automated processes for Shared Drive File Transfer, increasing efficiency by 40% and maintaining data integrity using SharePoint Migration Manager and SPMT, standardizing procedures for SharePoint Online, MS Teams, and OneDrive migrations.
+            •	Data Management and Reporting: Developed a PowerShell script leveraging parallel processing to scan network shared drives, calculate data sizes, and generate CSV outputs. Integrated this data into Power BI dashboards for executive insights and progress tracking.
+            •	SharePoint Migration and Upgrade Management: Directed the migration of 11TB of SharePoint 2016 data to SharePoint Online and automated the migration of 7TB of SharePoint 2007 data to SharePoint 2016, handling 23,000+ site collections using Sharegate, METALOGIX, and PowerShell scripts, ensuring seamless transitions with minimal downtime.
+            •	Custom Migration Validation Solutions: Developed PowerShell-based custom migration validation solutions to ensure data integrity and prevent loss during migrations, utilizing database tables, SQL queries, and pre- and post-migration reports.
+            •	Intranet Portal and SPFx Development: Led the development of a SharePoint Online Intranet Portal, achieving a 50% increase in user engagement through enhanced UI and customization. Developed SPFx Apps such as Custom Site Alerts, Search Webpart, and Stock Ticker to enhance user productivity.
+            •	Custom Development and Governance: Created custom web parts, responsive UI, central navigation bars, page layouts, and design templates in SharePoint 2016 using CSOM, JavaScript, HTML, and CSS. Implemented governance policies to maintain data integrity, compliance, and security within SharePoint environments.
+            •	Training, Support, and Maintenance: Conducted "App in a Day" training classes to empower Citizen Developers in creating and managing Canvas Apps and Flows. Delivered SharePoint Level 100 and 200 classes, managed ServiceNow/Remedy work orders and incidents, provided post-migration support, performed quarterly patching on SharePoint 2016, and led an offshore team to ensure operational continuity.
+
 
             
       - layout: left
